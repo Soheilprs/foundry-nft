@@ -11,7 +11,7 @@
 ## Quickstart
 
 ```
-git clone https://github.com/Cyfrin/foundry-nft-f23
+git clone https://github.com/soheilprs/foundry-nft
 cd foundry-nft-f23
 forge install
 forge build
